@@ -7,22 +7,23 @@
  
  <!-- 브릿지런 -->
  <a href="#">
-   <img src="https://github.com/user-attachments/assets/a2450ce0-f119-448d-891b-a2f2f9abd144" alt="브릿지런" style="width: 300px; border-radius: 10px;"/>
+   <img src="https://github.com/user-attachments/assets/3fc96b82-ac83-4839-87fb-17a3ca993f4f" alt="브릿지런" style="width: 300px; border-radius: 10px;"/>
  </a>
 
  <!-- 개발 예정 1 -->
  <a href="#">
-   <img src="https://github.com/user-attachments/assets/a2450ce0-f119-448d-891b-a2f2f9abd144" alt="개발 예정" style="width: 300px; border-radius: 10px;"/>
+   <img src="https://github.com/user-attachments/assets/3fc96b82-ac83-4839-87fb-17a3ca993f4f" alt="개발 예정" style="width: 300px; border-radius: 10px;"/>
  </a>
 
  <!-- 개발 예정 2 -->
  <a href="#">
-   <img src="https://github.com/user-attachments/assets/a2450ce0-f119-448d-891b-a2f2f9abd144" alt="개발 예정" style="width: 300px; border-radius: 10px;"/>
+   <img src="https://github.com/user-attachments/assets/3fc96b82-ac83-4839-87fb-17a3ca993f4f" alt="개발 예정" style="width: 300px; border-radius: 10px;"/>
  </a>
 </div>
 
 <div align="center">
  <br>
+
  <h4>🏆 수상 이력 🏆</h4>
  <img src="https://img.shields.io/badge/2024_게임제작_공모전-참가_예정-blue?style=for-the-badge" />
 </div>
