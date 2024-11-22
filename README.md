@@ -22,7 +22,7 @@
 
 <div align="center">
   <h4>📈 개발 통계 📈</h4>
-  <img src="https://img.shields.io/badge/Total_Projects-4-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bugs_Fixed-50+-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git_Commits-300+-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total_Projects-2-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bugs_Fixed-Wait+-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git_Commits-Wait+-orange?style=for-the-badge" />
 </div>
