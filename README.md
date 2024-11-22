@@ -11,16 +11,6 @@
   </a>
 </div>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-  <a href="프로젝트3_링크">
-    <img src="https://github.com/user-attachments/assets/프로젝트3_이미지ID" alt="Mobile Puzzle Game" style="width:45%;" />
-  </a>
-
-  <a href="프로젝트4_링크">
-    <img src="https://github.com/user-attachments/assets/프로젝트4_이미지ID" alt="VR Experience Game" style="width:45%;" />
-  </a>
-</div>
-
 <div align="center">
   <br>
   <h4>🏆 수상 이력 🏆</h4>
