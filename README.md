@@ -3,11 +3,11 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="미신전">
-    <img src="https://github.com/user-attachments/assets/프로젝트1_이미지ID" alt="Unity RPG Project" style="width:45%;" />
+    <img src="https://github.com/user-attachments/assets/프로젝트1_이미지ID" alt="미신전" style="width:45%;" />
   </a>
 
   <a href="브릿지런">
-    <img src="https://github.com/user-attachments/assets/프로젝트2_이미지ID" alt="2D Platformer Game" style="width:45%;" />
+    <img src="https://github.com/user-attachments/assets/프로젝트2_이미지ID" alt="브릿지런" style="width:45%;" />
   </a>
 </div>
 
