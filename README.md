@@ -24,8 +24,8 @@
 <div align="center">
   <br>
   <h4>🏆 수상 이력 🏆</h4>
-  <img src="https://img.shields.io/badge/2023_게임제작_경진대회-우수상-gold?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/2023_Unity_게임잼-참가-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/blue?style=for-the-badge" />
 </div>
 
 <br>
