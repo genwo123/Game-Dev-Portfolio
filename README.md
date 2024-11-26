@@ -1,8 +1,8 @@
 <h3 align="center">🎮 프로젝트 목록 🎮</h3>
 <div align="center" style="display: grid; grid-template-columns: repeat(2, 300px); gap: 20px; margin: 0 auto; padding: 20px;">
  <!-- 미신전 -->
- <a href="https://github.com/genwo123/Y2S3_MISINJEON_CPP">
-  (image/미신전.png)
+<a href="https://github.com/genwo123/Y2S3_MISINJEON_CPP">
+  <img src="./images/미신전.png" alt="미신전" style="width: 300px; border-radius: 10px;"/>
  </a>
 
  <!-- 브릿지런 -->
