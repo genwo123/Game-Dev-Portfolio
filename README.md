@@ -6,8 +6,8 @@
  </a>
 
  <!-- 브릿지런 -->
- <a href="#">
-   <img src="https://github.com/user-attachments/assets/3fc96b82-ac83-4839-87fb-17a3ca993f4f" alt="브릿지런" style="width: 300px; border-radius: 10px;"/>
+ <a href="https://github.com/genwo123/BridgeRun">
+   <img src="./image/브릿지런.png" alt="브릿지런" style="width: 300px; border-radius: 10px;"/>
  </a>
 
  <!-- 개발 예정 1 -->
