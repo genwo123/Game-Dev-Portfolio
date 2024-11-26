@@ -2,7 +2,7 @@
 <div align="center" style="display: grid; grid-template-columns: repeat(2, 300px); gap: 20px; margin: 0 auto; padding: 20px;">
  <!-- 미신전 -->
  <a href="https://github.com/genwo123/Y2S3_MISINJEON_CPP">
-   <img src="https://github.com/user-attachments/assets/e40f0f1f-a996-48d1-bb93-d8188603a0ad" alt="미신전" style="width: 300px; border-radius: 10px;"/>
+   <img src="https://github.com/images/미신전.png" alt="미신전" style="width: 300px; border-radius: 10px;"/>
  </a>
 
  <!-- 브릿지런 -->
