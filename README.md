@@ -21,17 +21,3 @@
  </a>
 </div>
 
-<div align="center">
- <br>
-
- <h4>🏆 수상 이력 🏆</h4>
- <img src="https://img.shields.io/badge/2024_게임제작_공모전-참가_예정-blue?style=for-the-badge" />
-</div>
-
-<div align="center">
- <br>
- <h4>📈 개발 통계 📈</h4>
- <img src="https://img.shields.io/badge/Total_Projects-2-blue?style=for-the-badge" />
- <img src="https://img.shields.io/badge/Bugs_Fixed-Wait+-green?style=for-the-badge" />
- <img src="https://img.shields.io/badge/Git_Commits-Wait+-orange?style=for-the-badge" />
-</div>
