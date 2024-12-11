@@ -64,63 +64,6 @@
   </table>
 </div>
 
-## Collaboration Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/genwo123/WhatAbout">
-          <img src="./image/팅커벨.png" alt="팅커벨" width="100%">
-          <br>
-          <b>팅커벨</b>
-          <br>
-          AWS 리빙랩 글로벌 해커톤 대상작
-          <br>
-          <sub><sup>AWS | 프론트엔드 리드 | AI 기반 주거 계약 솔루션</sup></sub>
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/genwo123/UFOs">
-          <img src="./image/UFOs.png" alt="UFOs" width="100%">
-          <br>
-          <b>UFO's</b>
-          <br>
-          QR코드 기반 축제 주문관리 시스템
-          <br>
-          <sub><sup>PM | 7인 협업 | 실시간 주문처리</sup></sub>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/genwo123/NNMJ_Project">
-          <img src="./image/너나묵자.png" alt="너나묵자" width="100%">
-          <br>
-          <b>너나묵자</b>
-          <br>
-          기숙사생 배달 파트너 매칭 서비스
-          <br>
-          <sub><sup>기술 리드 | 5인 협업 | 실시간 매칭</sup></sub>
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/genwo123/gunjangzone">
-          <img src="./image/군장존.png" alt="군장존" width="100%">
-          <br>
-          <b>군장존</b>
-          <br>
-          RPG 게임 스펙 분석 도구
-          <br>
-          <sub><sup>웹 기반 | 데이터 분석 | 게임 통계</sup></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
 
 
 
