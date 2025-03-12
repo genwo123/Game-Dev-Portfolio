@@ -65,6 +65,13 @@ AWS 리빙랩 해커톤 대상 수상작 | 2024.08
 - 웹 기반 RPG 게임 스펙 분석 도구
 
 ---
+## 💡 Algorithm & Coding Test Archive
+### [Algorithm-Solutions](https://github.com/genwo123/Algorithm-Solutions)
+코딩테스트 문제 풀이 아카이브 | 2023.08 ~ 현재
+- 다양한 알고리즘 문제 풀이 및 해설 기록
+- 프로그래머스, 백준, PCCP 등 플랫폼 문제 해결
+- 난이도별/유형별 분류 및 최적화된 접근법 분석
+- C++, Python 기반 문제 해결 능력 향상
 
 ## 📚 Research & Activities
 ### 스마일게이트 퓨처랩 챌린지
