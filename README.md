@@ -32,7 +32,7 @@
       </td>
       <td width="33%">
         <a href="https://github.com/genwo123/Harmonia">
-          <img src="./image/하모니아.png" alt="하모니아" width="100%">
+          <img src="./image/Hamonia.png" alt="하모니아" width="100%">
           <br>
           <b>하모니아 (Harmonia)</b>
           <br>
